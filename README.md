@@ -9,7 +9,10 @@
 
 💬 Ask me about... Bootstrap,JavaScript,Jquery,Vue,Ajax,PHP,Laravel,DBMS
 
-📫 How to reach me... https://www.facebook.com/hanhtunaung.1213894
+📫 How to reach me... hanhtunaung409@gmail.com
+
+###  Connect Me With
+<a href="https://www.facebook.com/hanhtunaung.1213894"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="facebook" width="40" height="40"></a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
