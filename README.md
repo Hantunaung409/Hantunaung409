@@ -2,7 +2,7 @@
 # Hi, I'm Han Tun Aung! 👋
 
 
-##  I'm a full stack developer
+##  I'm a web developer
 
 
 🧠 I'm currently learning Tailwind,JavaScript,Datastructure,DBMS
